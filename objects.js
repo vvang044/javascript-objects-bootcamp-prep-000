@@ -1,5 +1,5 @@
-const playlist = {michael: 'thriller'};
+const playlist = {michael: 'thriller', elvis: 'something'};
 
-function updatePlaylist(playlist, artistName, playlist){
+function updatePlaylist(playlist, artistName, songTitle){
   
 }
